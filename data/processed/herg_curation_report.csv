@@ -1,0 +1,7 @@
+step,records_before,records_after,records_removed
+valid compound identifiers and structures,22768,22768,0
+positive numeric activity values,22768,22768,0
+nanomolar activity units,22768,22768,0
+IC50 activity type,22768,17031,5737
+exact standard relations,17031,11968,5063
+exact duplicate rows removed,11968,11968,0
