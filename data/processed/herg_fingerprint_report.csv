@@ -1,0 +1,11 @@
+metric,value
+input_records,9802.0
+output_records,9802.0
+fingerprint_radius,2.0
+fingerprint_bits,2048.0
+invalid_smiles,0.0
+duplicate_compound_ids,0.0
+duplicate_fingerprints,401.0
+total_fingerprint_bits,20074496.0
+active_fingerprint_bits,559410.0
+mean_active_bits_per_compound,57.071005917159766

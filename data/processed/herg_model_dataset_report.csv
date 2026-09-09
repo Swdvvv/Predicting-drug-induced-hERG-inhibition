@@ -1,0 +1,10 @@
+metric,value
+input_records,11968
+input_unique_compounds,9802
+output_records,9802
+repeated_compounds_aggregated,1208
+conflicting_smiles_compounds,0
+multiple_smiles_compounds,0
+variability_low,9433
+variability_moderate,214
+variability_high,155

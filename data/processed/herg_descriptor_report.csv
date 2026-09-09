@@ -1,0 +1,6 @@
+metric,value
+input_records,9802
+valid_smiles_records,9802
+invalid_smiles_records,0
+output_records,9802
+descriptor_count,12
